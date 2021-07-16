@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliabernstein
 - 👀 I’m interested in music, tech, and the overlap between the two
-- 🌱 I’m currently studying information science, data science, and design
+- 🌱 I’m currently studying information science, collaborative technology, design, and music
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: 305-972-6123 or juliaebernstein@gmail.com
 
