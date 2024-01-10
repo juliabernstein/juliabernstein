@@ -4,6 +4,7 @@
 - ✨ I recently moved to San Francisco to work at AWS
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: 305-972-6123 or juliaebernstein@gmail.com
+- 👩‍💻 I have experience in HTML, CSS, Java, Python, Swift, JavaScript, PHP, MySQL, Vue.js, Figma, and Amazon QuickSight
 
 <!---
 juliabernstein/juliabernstein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
